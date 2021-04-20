@@ -20,3 +20,18 @@ INSERT INTO cats(name, age)
             ('Jelly', 2);
 
 SELECT * FROM cats;
+
+/* INSERT Challenges */
+
+ INSERT INTO people(first_name, last_name, age)
+
+             VALUES('Amitrajit', 'Das', 20),
+             VALUES('Indrani', 'Das', 44),
+             VALUES('Ganesh', 'Das', 52);
+
+
+ SHOW * from people;
+
+DROP TABLE people;
+
+DESC people; /*error*/
