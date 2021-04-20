@@ -35,3 +35,14 @@ SELECT * FROM cats;
 DROP TABLE people;
 
 DESC people; /*error*/
+
+
+/* Warnings */
+
+SHOW WARNINGS;
+
+/* Null */
+
+INSERT INTO cats() VALUES();
+
+CREATE TABLE cats2(name VARCHAR(50) NOT NULL, age INT NOT NULL); /* NOT NULL */
