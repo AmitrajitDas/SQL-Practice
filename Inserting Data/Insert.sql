@@ -13,3 +13,5 @@ INSERT INTO cats(age,
 
             VALUES(11, 
                 'DRACO');
+/* 
+SELECT * FROM cats; */
