@@ -7,3 +7,9 @@ INSERT INTO cats(name,
 
             VALUES('Blue', 
                     1);
+
+INSERT INTO cats(age, 
+                name)
+
+            VALUES(11, 
+                'DRACO');
