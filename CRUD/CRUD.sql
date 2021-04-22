@@ -24,17 +24,3 @@ VALUES ('Ringo', 'Tabby', 4),
        ('Misty', 'Tabby', 13),
        ('George Michael', 'Ragdoll', 9),
        ('Jackson', 'Sphynx', 7);
-       
-
-SELECT * FROM cats;
-+--------+----------------+------------+------+
-| cat_id | name           | breed      | age  |
-+--------+----------------+------------+------+
-|      1 | Ringo          | Tabby      |    4 |
-|      2 | Cindy          | Maine Coon |   10 |
-|      3 | Dumbledore     | Maine Coon |   11 |
-|      4 | Egg            | Persian    |    4 |
-|      5 | Misty          | Tabby      |   13 |
-|      6 | George Michael | Ragdoll    |    9 |
-|      7 | Jackson        | Sphynx     |    7 |
-+--------+----------------+------------+------+
